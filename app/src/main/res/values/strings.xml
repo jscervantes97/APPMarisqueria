@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AntojitosMarineros</string>
+    <string name="title_activity_comanda">comanda</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="agg">Agregar otro producto</string>
+    <string name="previous">Previous</string>
+    <string name="inicio">ACEPTAR</string>
+    <string name="Mesa">Elegir mesa</string>
+    <string name="llevar">Para llevar</string>
+    <string name="FRIA">BARRA FRIA</string>
+    <string name="canasta">Canasta  Orden activa</string>
+    <string name="save">Guardar</string>
+    <string name="POSTRES">POSTRES</string>
+    <string name="activas">ordenes activas</string>
+    <string name="folio">Folio</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="empleado">Empleado</string>
+    <string name="IntroFolio">Introduce el Folio</string>
+    <string name="Menu">Menu</string>
+    <string name="OrdenTetView">Orden</string>
+    <string name="OrdenTamano">Tamaño</string>
+    <string name="OrdenIngredientes">Ingredientes</string>
+
+
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
